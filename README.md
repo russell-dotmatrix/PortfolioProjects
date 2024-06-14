@@ -1,5 +1,5 @@
 # Data Analyst
-![headshot](/russell-dotmatrix/PortfolioProjects/assets/docs/Russell_headshot.jpg)
+![headshot](docs/assets/Russell_headshot.jpg)
 
 ### Education
 
