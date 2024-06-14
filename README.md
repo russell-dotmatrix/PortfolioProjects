@@ -1,5 +1,5 @@
 # Data Analyst
-![headshot](docs/assets/Russell_headshot.jpg) 
+![headshot](docs/assets/Russell_headshot_small.jpg) 
 
 ### Education
 
