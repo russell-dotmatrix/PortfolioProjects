@@ -1,5 +1,5 @@
 # Data Analyst
-![headshot](docs/assets/Russell_headshot.jpg) {:height="36px" width="36px"}
+![headshot](docs/assets/Russell_headshot.jpg) {:height="10px" width="10px"}
 
 ### Education
 
